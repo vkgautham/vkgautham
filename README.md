@@ -1,2 +1,2 @@
-# cmar
-For cmar application
+# projects
+My projects
